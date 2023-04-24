@@ -7,9 +7,6 @@ Solution for [Coursera Cybersecurity Capstone Project](https://www.coursera.org/
 * Inbox:
 ![_](pics/2.png)
 * Database dump:
-![_](pics/3.png)
-* Dashboard:
-![_](pics/4.png)
 
 ## Create a project structure (Not need to run it)
 ```
